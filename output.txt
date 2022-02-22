@@ -1,0 +1,209 @@
+Decoded JSON Data From File
+Done reading json file
+IMAGO toponym: Abidos
+pleiades toponym: Abydos
+0.35221672938512555
+IMAGO toponym: Alexandria
+pleiades toponym: Alexandria
+0.675981814108992
+IMAGO toponym: Babylo
+pleiades toponym: Babylonia
+7.91921550911047
+IMAGO toponym: Babylo
+pleiades toponym: Babylon
+0.8191883317302566
+IMAGO toponym: Babylo
+pleiades toponym: Babylonia
+7.91921550911047
+IMAGO toponym: Babylo
+pleiades toponym: Babylon
+0.8191883317302566
+IMAGO toponym: Babylo
+pleiades toponym: Babylonia
+7.91921550911047
+IMAGO toponym: Babylo
+pleiades toponym: Babylon
+0.8191883317302566
+IMAGO toponym: Bononia
+pleiades toponym: Bononia
+0.2330094332954949
+IMAGO toponym: Bononia
+pleiades toponym: Bononia
+0.2330094332954949
+IMAGO toponym: Brixia
+pleiades toponym: Brixia
+0.2436366862729318
+IMAGO toponym: Brixia
+pleiades toponym: Brixia
+0.2436366862729318
+IMAGO toponym: Carthago
+pleiades toponym: Carthago
+0.5619211008463262
+IMAGO toponym: Constantinopolis
+pleiades toponym: Constantinopolis
+0.5870107719171536
+IMAGO toponym: Cremona
+pleiades toponym: Cremona
+0.5661651056863073
+IMAGO toponym: Cremona
+pleiades toponym: Cremona
+0.5661651056863073
+IMAGO toponym: Cremona
+pleiades toponym: Cremona
+0.5661651056863073
+IMAGO toponym: Florentia
+pleiades toponym: Florentia
+0.3675698246107499
+IMAGO toponym: Florentia
+pleiades toponym: Florentia
+0.3675698246107499
+IMAGO toponym: Florentia
+pleiades toponym: Florentia
+0.3675698246107499
+IMAGO toponym: Florentia
+pleiades toponym: Florentia
+0.3675698246107499
+IMAGO toponym: Florentia
+pleiades toponym: Florentia
+0.3675698246107499
+IMAGO toponym: Florentia
+pleiades toponym: Florentia
+0.3675698246107499
+IMAGO toponym: Florentia
+pleiades toponym: Florentia
+0.3675698246107499
+IMAGO toponym: Florentia
+pleiades toponym: Florentia
+0.3675698246107499
+IMAGO toponym: Florentia
+pleiades toponym: Florentia
+0.3675698246107499
+IMAGO toponym: Florentia
+pleiades toponym: Florentia
+0.3675698246107499
+IMAGO toponym: Florentia
+pleiades toponym: Florentia
+0.3675698246107499
+IMAGO toponym: Florentia
+pleiades toponym: Florentia
+0.3675698246107499
+IMAGO toponym: Florentia
+pleiades toponym: Florentia
+0.3675698246107499
+IMAGO toponym: Helicon
+pleiades toponym: Helicon
+0.22706743834216708
+IMAGO toponym: Helicon
+pleiades toponym: Helicon
+0.22706743834216708
+IMAGO toponym: Ierusalem
+pleiades toponym: Ierusalem
+1.8134506199177913
+IMAGO toponym: Ierusalem
+pleiades toponym: Ierusalem
+1.8134506199177913
+IMAGO toponym: Ierusalem
+pleiades toponym: Ierusalem
+1.8134506199177913
+IMAGO toponym: Ierusalem
+pleiades toponym: Ierusalem
+1.8134506199177913
+IMAGO toponym: Ierusalem
+pleiades toponym: Ierusalem
+1.8134506199177913
+IMAGO toponym: Mantua
+pleiades toponym: Mantua
+0.6959000382329941
+IMAGO toponym: Mantua
+pleiades toponym: Mantua
+0.6959000382329941
+IMAGO toponym: Mediolanum
+pleiades toponym: Mediolanium
+0.3865014245885987
+IMAGO toponym: Mediolanum
+pleiades toponym: Mediolanium
+0.3865014245885987
+IMAGO toponym: Pactolis
+pleiades toponym: Pactolus
+5.070499127511768
+IMAGO toponym: Papia
+pleiades toponym: Pavia
+0.1406915538784387
+IMAGO toponym: Peloros
+pleiades toponym: Pelorus
+0.12171585908518387
+IMAGO toponym: Peloros
+pleiades toponym: Pelorus
+0.12171585908518387
+IMAGO toponym: Pergama
+pleiades toponym: Pergamum
+1.6182184247369884
+IMAGO toponym: Pergamum
+pleiades toponym: Pergamum
+1.6182184247369884
+IMAGO toponym: Perusium
+pleiades toponym: Perusia
+0.1353367323127508
+IMAGO toponym: Saguntum
+pleiades toponym: Saguntum
+0.38720366879239365
+IMAGO toponym: Sarnus
+pleiades toponym: Sarnus
+0.6327868896011664
+IMAGO toponym: Sarnus
+pleiades toponym: Sarnus
+0.6327868896011664
+IMAGO toponym: Sarnus
+pleiades toponym: Sarnus
+0.6327868896011664
+IMAGO toponym: Sarnus
+pleiades toponym: Sarnus
+0.6327868896011664
+IMAGO toponym: Sarnus
+pleiades toponym: Sarnus
+0.6327868896011664
+IMAGO toponym: Sarnus
+pleiades toponym: Sarnus
+0.6327868896011664
+IMAGO toponym: Sarnus
+pleiades toponym: Sarnus
+0.6327868896011664
+IMAGO toponym: Sextos
+pleiades toponym: Sestos
+1.724674814328961
+IMAGO toponym: Spoletum
+pleiades toponym: Spoletium
+1.3924487260186094
+IMAGO toponym: Thessalia
+pleiades toponym: Thessalia
+0.0
+IMAGO toponym: Thessalia
+pleiades toponym: Thessalia
+0.0
+IMAGO toponym: Troia
+pleiades toponym: Troia
+0.037514664919756115
+IMAGO toponym: Troia
+pleiades toponym: Troia
+0.037514664919756115
+IMAGO toponym: Venetiae
+pleiades toponym: Venezia
+0.39187719675213106
+IMAGO toponym: Vercellae
+pleiades toponym: Vercellae
+0.9063305643243381
+IMAGO toponym: Verona
+pleiades toponym: Verona
+0.45440412950523157
+IMAGO toponym: Verona
+pleiades toponym: Verona
+0.45440412950523157
+IMAGO toponym: Verona
+pleiades toponym: Verona
+0.45440412950523157
+IMAGO toponym: Verona
+pleiades toponym: Verona
+0.45440412950523157
+IMAGO toponym: Vicentia
+pleiades toponym: Vicetia
+0.8928758064873534
